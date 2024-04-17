@@ -5,5 +5,5 @@
 
 
   
-   <image src="https://raw.githubusercontent.com/netology-code/git-2-homeworks-fork/main/img/NeuroStartUp.png" alt="I'm">
+   <image src="/home/alexkim/Test/1712484200736.png" alt="I'm">
 
